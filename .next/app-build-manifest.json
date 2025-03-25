@@ -1,0 +1,67 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/app/_not-found/page-ddda71fc5229109f.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/layout-b0df7dc3d153818b.js"
+    ],
+    "/analyse-marche/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/analyse-marche/page-94cd10a04fa38926.js"
+    ],
+    "/mots-cles/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/mots-cles/page-3174d5c6d4ddb0bc.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/page-4ab92f24dc2adb77.js"
+    ],
+    "/plan-action/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/plan-action/page-195fd653d0f461d4.js"
+    ],
+    "/strategie-sea/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/strategie-sea/page-40019c8652de2315.js"
+    ],
+    "/strategie-seo/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/629b3d23-227caf3756d74c84.js",
+      "static/chunks/775-05050b43bb098224.js",
+      "static/chunks/main-app-49c3f98bc93c8b1a.js",
+      "static/chunks/587-ca3cd743bfe112db.js",
+      "static/chunks/app/strategie-seo/page-0eb8a92a1ab757a1.js"
+    ]
+  }
+}
