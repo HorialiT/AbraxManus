@@ -298,30 +298,3 @@ export default function StrategieSEO() {
               </ol>
             </div>
             <div>
-              <h3 className="text-xl font-bold text-green-600 mb-4">Mois 3</h3>
-              <ol className="list-decimal list-inside text-gray-700 space-y-2 pl-4">
-                <li>Création des premières pages locales</li>
-                <li>Mise en place du balisage schema.org</li>
-                <li>Optimisation de l'expérience mobile</li>
-                <li>Publication de 2 nouveaux articles</li>
-                <li>Analyse des premiers résultats et ajustements</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-
-        <div className="text-center mb-12">
-          <Link href="/strategie-sea" className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-xl transition-colors">
-            Voir la stratégie SEA complémentaire
-          </Link>
-        </div>
-
-        <div className="text-center mb-8">
-          <Link href="/" className="text-green-600 hover:text-green-800">
-            Retour à l'accueil
-          </Link>
-        </div>
-      </div>
-    </main>
-  );
-}

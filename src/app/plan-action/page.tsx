@@ -298,31 +298,3 @@ export default function PlanAction() {
             <div>
               <h3 className="text-xl font-bold text-teal-700 mb-3">Suivi et optimisation continue</h3>
               <p className="text-gray-700">
-                Mettre en place un système de suivi rigoureux des KPIs, analyser régulièrement les performances et ajuster les stratégies, et rester à l'affût des nouvelles tendances et fonctionnalités SEO/SEA.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-          <div className="text-center">
-            <Link href="/strategie-seo" className="inline-block bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg text-xl transition-colors w-full">
-              Voir la stratégie SEO
-            </Link>
-          </div>
-          <div className="text-center">
-            <Link href="/strategie-sea" className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-xl transition-colors w-full">
-              Voir la stratégie SEA
-            </Link>
-          </div>
-        </div>
-
-        <div className="text-center mb-8">
-          <Link href="/" className="text-teal-600 hover:text-teal-800">
-            Retour à l'accueil
-          </Link>
-        </div>
-      </div>
-    </main>
-  );
-}

@@ -74,20 +74,20 @@ export default function Home() {
             </Link>
           </div>
           <div className="bg-white rounded-lg shadow p-6 hover:shadow-md transition-shadow">
-            <h3 className="text-xl font-bold text-gray-800 mb-3">Analyse concurrentielle</h3>
-            <p className="text-gray-700 mb-3">
-              Étude détaillée de Grand Ouest Débarras et autres concurrents locaux.
-            </p>
-            <Link href="/analyse-concurrentielle" className="text-green-600 hover:text-green-800 font-semibold">
-              En savoir plus →
-            </Link>
-          </div>
-          <div className="bg-white rounded-lg shadow p-6 hover:shadow-md transition-shadow">
             <h3 className="text-xl font-bold text-gray-800 mb-3">Mots-clés stratégiques</h3>
             <p className="text-gray-700 mb-3">
               Identification des mots-clés prioritaires pour le SEO et le SEA.
             </p>
             <Link href="/mots-cles" className="text-green-600 hover:text-green-800 font-semibold">
+              En savoir plus →
+            </Link>
+          </div>
+          <div className="bg-white rounded-lg shadow p-6 hover:shadow-md transition-shadow">
+            <h3 className="text-xl font-bold text-gray-800 mb-3">Plan d'action</h3>
+            <p className="text-gray-700 mb-3">
+              Étapes concrètes pour mettre en œuvre les stratégies SEO et SEA.
+            </p>
+            <Link href="/plan-action" className="text-green-600 hover:text-green-800 font-semibold">
               En savoir plus →
             </Link>
           </div>
@@ -136,13 +136,13 @@ export default function Home() {
 
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-gray-800 mb-6">Prêt à dominer le marché du débarras en Loire-Atlantique ?</h2>
-          <Link href="/contact" className="inline-block bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg text-xl transition-colors">
-            Contactez-nous
-          </Link>
+          <p className="text-gray-700 mb-4">
+            Mettez en œuvre cette stratégie SEO/SEA pour vous démarquer de la concurrence et générer plus de demandes de devis qualifiées.
+          </p>
         </div>
 
         <footer className="text-center text-gray-500 text-sm">
-          <p>© 2025 Abradebarras - Stratégie SEO et SEA par Manus</p>
+          <p>© 2025 Abradebarras - Stratégie SEO et SEA</p>
         </footer>
       </div>
     </main>

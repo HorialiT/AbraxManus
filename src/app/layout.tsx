@@ -1,6 +1,12 @@
 import Link from 'next/link';
+import './globals.css';
 
-export default function Layout({
+export const metadata = {
+  title: 'Abradebarras - Stratégie SEO/SEA',
+  description: 'Stratégie SEO et SEA pour Abradebarras, leader du débarras écologique en Loire-Atlantique',
+};
+
+export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
